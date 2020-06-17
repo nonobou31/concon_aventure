@@ -1,0 +1,35 @@
+<!--By Nonobou31-->
+<html>
+    <head>
+	<link rel="icon" href="ico.ico" />
+<title>concon aventure</title>
+<link rel="stylesheet" type="text/css" href="baseStyle.css" />
+<meta name="description" content="concon aventure"/>
+	    
+    </head>
+    <body>
+<nav>
+  &MediumSpace;
+    <a class="left" href="index.html">concon aventure</a>
+    <a class="center" href="https://www.youtube.com/channel/UCDmrw_FKkG2Pbpq-VxyNxng">YouTube</a>
+</nav>
+    <p class="globalTitle">concon aventure</p>
+    <center>
+	<p>concon aventure est un jeu de type a choix histoire interactive (si t'aime pas trouve mieux) totalment segond dégré</p>
+	<a class="globalTitle" href="play/index.html">JOUER</a>
+    <p>⚠️ le jeux n'est pas fini si vous vous vouler  voir le blog update : <a href="http://concondev.over-blog.com/">c'est ici</a> </p>
+	<p class="globalTitle">les avis des joueurs :</p>
+	<p>c'est les beta testeurs</p>
+	<img src="avis1.png">
+	<p></p>
+	<img src="avis2.png">
+	<p></p>
+	<img src="avis3.png">
+	<p></p>
+	<p class="globalTitle">réseaux :</p>
+	<iframe allowfullscreen="" frameborder="0" width="12%" height="10%" src="https://static.parastorage.com/services/wix-bolt/1.4653.0/node_modules/wix-santa/static/external/youtubeSubscribeButton.html?channel=UCDmrw_FKkG2Pbpq-VxyNxng&amp;layout=full&amp;theme=light"></iframe>
+	<p></p>
+    <iframe allowfullscreen="" frameborder="0" width="12%" height="10%" src="https://static.parastorage.com/services/wix-bolt/1.4653.0/node_modules/wix-santa/static/external/youtubeSubscribeButton.html?channel=UCo1R2OPBjYVkk1gUMkSSAIQ&amp;layout=full&amp;theme=light"></iframe>
+	</center>
+	</body>
+</html>
